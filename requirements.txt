@@ -1,7 +1,0 @@
-streamlit==1.7.0  # Adjust the version based on your compatibility
-tensorflow==2.9.0
-keras
-Pillow==8.3.1
-opencv-python==4.5.3.56
-joblib==1.0.1
-opencv-python==4.5.3.56
