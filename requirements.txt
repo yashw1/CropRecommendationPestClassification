@@ -3,4 +3,4 @@ tensorflow==2.9.0
 keras
 Pillow==8.3.1
 opencv-python==4.5.3.56
-joblib==1.1.0
+joblib==1.0.1
