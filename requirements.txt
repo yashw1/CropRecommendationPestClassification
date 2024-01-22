@@ -1,6 +1,6 @@
-streamlit==1.28.0  # Adjust the version based on your compatibility
+streamlit==1.7.0  # Adjust the version based on your compatibility
 tensorflow==2.9.0
-keras==2.4.3
+keras
 Pillow==8.3.1
 opencv-python==4.5.3.56
 joblib==1.1.0
