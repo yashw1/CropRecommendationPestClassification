@@ -1,5 +1,5 @@
 import streamlit as st
-import tensorflow.compat.v2
+import tensorflow.compat.v2 as tf
 import keras.utils as image
 import numpy as np
 from PIL import Image, ImageOps  # Streamlit works with PIL library very easily for Images
