@@ -58,7 +58,7 @@ if __name__ == "__main__":
 
 
 
-path = 'C:\\Users\\yashpal kharpuriya\\PycharmProjects\\PythonProject5\\upload'
+#path = 'C:\\Users\\yashpal kharpuriya\\PycharmProjects\\PythonProject5\\upload'
 model_path = 'C:\\Users\\yashpal kharpuriya\\PycharmProjects\\PythonProject5\\PestImageClassificationInception.h5'
 #model_path = 'C:\\Users\\asus\\PycharmProjects\\PestClassification\\PestImageClassificationCNN.h5'
 
